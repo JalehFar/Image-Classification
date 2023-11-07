@@ -1,6 +1,6 @@
 # Image-Classification
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YY2ddQ1vP2T4ntUav0-Cwe9lePYvh2uC?usp=drive_open)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YY2ddQ1vP2T4ntUav0-Cwe9lePYvh2uC?usp=drive_open#scrollTo=953edfb2)
 
 
 ## Project Statement:
