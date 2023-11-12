@@ -8,6 +8,7 @@
 The goal of the project is to classify 13 different [Iranian Cars](https://www.kaggle.com/datasets/usefashrfi/iran-used-cars-datasethttp:// "Iranian Cars").
 using AlexNet Model, VGG16-TransferNet, VGG16-ShallowNet and VGG16-SVM.
 
+![DALL·E 2023-11-12 18 05 44 - The goal of the project is to classify 13 different Iranian Cars](https://github.com/JalehFar/Image-Classification/assets/117992631/8535c03b-310e-4368-97e5-b5497cb730d5)
 
 ### AlexNet:
 
